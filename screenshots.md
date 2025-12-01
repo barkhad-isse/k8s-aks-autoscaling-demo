@@ -22,6 +22,7 @@
 <img width="1149" height="649" alt="image" src="https://github.com/user-attachments/assets/acdea4a9-b7e8-4433-acb2-d0b30fac3ba9" />
 
 ### Azure Portal - AKS overview
-<img width="1653" height="848" alt="Screenshot 2025-12-01 163638" src="https://github.com/user-attachments/assets/9fa730ec-0fef-471f-8a61-5f33c4d09777" />
+<img width="1653" height="848" alt="Screenshot 2025-12-01 163638" src="https://github.com/user-attachments/assets/7167d3ce-ddda-4806-8929-f05b74b897aa" />
+
 
 
